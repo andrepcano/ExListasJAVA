@@ -1,4 +1,4 @@
-# 📋 ListsJAVA
+# 📋 ListasJAVA
 
 Este repositório foi criado com o objetivo de praticar e consolidar conceitos de **listas em Java (`List` / `ArrayList`)** juntamente com **encapsulamento**, aplicando boas práticas de programação orientada a objetos.
 
